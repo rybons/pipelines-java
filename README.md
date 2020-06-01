@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ryanb0679/sandbox/_apis/build/status/rybons.pipelines-java?branchName=master)](https://dev.azure.com/ryanb0679/sandbox/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
